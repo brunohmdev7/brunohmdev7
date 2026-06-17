@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Software Developer passionate solving problems with code and good practices. I believe that good software goes beyond making it work: it should be readable, testable, and easy to evolve.</p>
+<p align="left">I'm a Software Developer passionate about solving problems with code and good practices. I believe that good software goes beyond making it work: it should be readable, testable, and easy to evolve.</p>
 
 ###
 
